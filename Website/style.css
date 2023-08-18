@@ -1,0 +1,908 @@
+:root 
+
+{
+  box-sizing: border-box;
+}
+body 
+{
+  font-size: 14px;
+}
+
+/* Home background */
+.v2_9 
+{
+  width: 100%;
+  height: 1375px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Page 3 background */
+.v58_22 
+{
+  width: 100%;
+  height: 1375px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Page 6 background */
+.v14_101 
+{
+  width: 100%;
+  height: 1375px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.Logo 
+{
+  width: 185px;
+  height: 113px;
+  max-width: 100%;
+  background: url("../Website/images/Logo.png");
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Page 2 Logo*/
+.v18_326 
+{
+  width: 206px;
+  height: 115px;
+  background: url("../Website/images/v18_326.png");
+  background-repeat: no-repeat;
+  background-position: center left;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.Multiple_Animals
+{
+    width: 100%;
+    height: 480px;
+    max-width: 100%;
+    background: url("../Website/images/Multiple_Animals.png"); 
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.Tiger
+{
+    width: 50%;
+    height: 576px;
+    max-width: 100%;
+    background: url("../Website/images/Tiger.png"); 
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 768px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.Koala 
+{
+  width: 50%;
+  height: 576px;
+  max-width: 100%;
+  background: url("../Website/images/Koala.png");
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 768px;
+  right: 0px;
+  overflow: hidden;
+}
+
+.Southern_cassowary 
+{
+    width: 49.5%;
+    height: 416px;
+    background: url("../Website/images/Southern_cassowary.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    overflow: hidden;
+}
+
+/* Southern cassowary banner */
+.v15_152 
+{
+  width: 49.5%;
+  height: 128px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 608px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Southern cassowary banner */
+.v15_177 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 659px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.Kangaroo_island_dunnart
+{
+  width: 49.5%;
+  height: 416px;
+  background: url("../Website/images/Kangaroo_island_dunnart.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 192px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Kangaroo island dunnart banner*/
+.v58_18 
+{
+  width: 49.5%;
+  height: 128px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 608px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Kangaroo island dunnart banner*/
+.v58_19 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 653px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.Pink_cockatoo
+{
+  width: 49.5%;
+  height: 416px;
+  background: url("../Website/images/Pink_cockatoo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 192px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Pink cockatoo banner */
+.v58_39 
+{
+  width: 49.5%;
+  height: 128px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 608px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Pink cockatoo banner */
+.v58_43 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 653px;
+  right: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.quolls
+{
+  width: 49.5%;
+  height: 416px;
+  background: url("../Website/images/quolls.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 200px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Quolls banner */
+.v15_159 
+{
+  width: 49.5%;
+  height: 128px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 608px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Quolls banner */
+.v15_174 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 653px;
+  right: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.Orange-bellied_parrot
+{
+  width: 49.5%;
+  height: 430px;
+  background: url("../Website/images/Orange-bellied_parrot.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 768px;
+  left: 0x;
+  overflow: hidden;
+}
+
+/* Orange bellied parrot banner */
+.v15_154 
+{
+  width: 49.5%;
+  height: 160px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 1184px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Orange bellied parrot banner */
+.v15_179 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1251px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.Greater_glide
+{
+  width: 49.5%;
+  height: 416px;
+  background: url("../Website/images/Greater_glide.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 768px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Greater glider banner */
+.v58_16 
+{
+  width: 49.5%;
+  height: 160px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 1184px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Greater glider banner */
+.v58_36 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1248px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.Davies_tree_frog
+{
+  width: 49.5%;
+  height: 416px;
+  background: url("../Website/images/Davies_tree_frog.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 768px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Davies tree frog banner*/
+.v58_40 
+{
+  width: 49.5%;
+  height: 160px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 1184px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Davies tree frog banner*/
+.v58_45 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1251px;
+  right: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.Mountain_pygmy-possum
+{
+  width: 49.5%;
+  height: 431px;
+  background: url("../Website/images/Mountain_pygmy-possum.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 767px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Mountain pygmy-possum banner */
+.v15_155 
+{
+  width: 49.5%;
+  height: 155px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 1190px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Mountain pygmy-possum banner */
+.v15_178 
+{
+  width: 49.5%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1250px;
+  right: 0px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+
+.Adoption
+{
+    width: 100%;
+    height: 864px;
+    background: url("../Website/images/Adoption.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    opacity: 1;
+    position: absolute;
+    top: 180px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v9_20 
+{
+  width: 100%;
+  height: 128px;
+  background: rgba(221,208,186,1);
+  opacity: 1;
+  position: absolute;
+  top: 512px;
+  left: 0px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+
+.sketch
+{
+    width: 100%;
+    height: 100%;
+    background: url("..//Website/images/Sketch.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    opacity: 1;
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    overflow: hidden;
+}
+
+
+.v9_22 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 559px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v10_23 
+{
+  width: 100%;
+  height: 128px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 640px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v11_25 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 680px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+  
+.v9_16 
+{
+  width: 469px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 58px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v9_17 
+{
+  width: 120px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 2px;
+  left: 5px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+
+/* Banner of R.E.A Endangered animals in Australia */
+.v14_137 
+{
+  width: 100%;
+  height: 160px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+
+/* Banner of R.E.A Endangered animals in Australia */
+.v14_138 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 32px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+
+/* R.E.A How should us humans respond to the potential extinction of multiple animals? And how we can be more conscuius and considered? */
+.v14_76 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 80px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+/* Logo */
+.v18_329 
+{
+  width: 153px;
+  height: 73px;
+  background: url("../Website/images/v18_329.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Sketch banner */
+.v23_331 
+{
+  width: 100%;
+  height: 160px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+
+/* Sketch banner */
+.v23_332 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+
+/* Our plan is to assist on the survivability of the animals close to becoming extinct, as such we want to set up a website and app to allow anyone from around the world to adopt an extinct animal. By adopting an animal they can name them and also raise funds to take care of them allowing to live in a safe environment */
+.v14_77 
+{
+  width: 100%;
+  height: 200px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 1080px;
+  right: 0px;
+  overflow: hidden;
+}
+
+/* Our plan is to assist on the survivability of the animals close to becoming extinct, as such we want to set up a website and app to allow anyone from around the world to adopt an extinct animal. By adopting an animal they can name them and also raise funds to take care of them allowing to live in a safe environment */
+.v16_310 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1120px;
+  right: 0px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+
+/* Page 6 banner */
+.v15_307 
+{
+  width: 100%;
+  height: 230px;
+  background: rgba(221,208,186,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+
+/* References banner */
+.v14_104 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 61px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+
+/* Page 6 main banner */
+.v23_334 
+{
+  width: 100%;
+  height: 100%;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 230px;
+  left: 0px;
+  overflow: hidden;
+}
+
+/* Page 6 Text */
+.v24_3 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 262px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v58_33 
+{
+  width: 100%;
+  height: 160px;
+  background: rgba(185,151,98,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 128px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+
+.v58_34 
+{
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+
+.next-button
+{
+    display: block;
+    width: 120px;
+    position: absolute; 
+    bottom: 0; 
+    right: 0; 
+    margin-bottom: 20px; 
+    margin-right: 20px; 
+    text-align: center; 
+}
+
+.prev-button 
+{
+    display: block;
+    width: 120px;
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    margin-bottom: 20px; 
+    margin-left: 20px; 
+    text-align: center; 
+}
+@media (min-width: 50em)
+{
+    .main-container 
+    {
+    display: grid;
+    column-gap: 1em;
+    /* Set up the default grid-template for mobile phone layout */
+    grid-template-areas:
+        "Adoption"
+        "Davies_tree_frog"
+        "Greater-glide"
+        "Kangaroo_island_dunnart"
+        "Koala"
+        "Mountain_pygmy-possum"
+        "Multiple_Animals"
+        "Orange-bellied_Parrot"
+        "Pink_cockatoo"
+        "quolls"
+        "Sketch"
+        "Southern_cassowary"
+        "Tiger";
+    }
+}
+
+
+
+@media (min-width: 50em) 
+{
+    /* Adjust the grid-template for tablet layout */
+    .main-container 
+    {
+        grid-template-areas:
+        "Adoption"
+        "Davies_tree_frog"
+        "Greater-glide"
+        "Kangaroo_island_dunnart"
+        "Koala"
+        "Mountain_pygmy-possum"
+        "Multiple_Animals"
+        "Orange-bellied_Parrot"
+        "Pink_cockatoo"
+        "quolls"
+        "Sketch"
+        "Southern_cassowary"
+        "Tiger";
+    }
+}
+
+@media (min-width: 75em) 
+{
+    /* Adjust the grid-template for desktop layout */
+    .main-container 
+    {
+        grid-template-areas:
+        "Adoption"
+        "Davies_tree_frog"
+        "Greater-glide"
+        "Kangaroo_island_dunnart"
+        "Koala"
+        "Mountain_pygmy-possum"
+        "Multiple_Animals"
+        "Orange-bellied_Parrot"
+        "Pink_cockatoo"
+        "quolls"
+        "Sketch"
+        "Southern_cassowary"
+        "Tiger";
+    }
+    
+    /* Adjust the size of specific images */
+    .Davies_tree_frog img,
+    .Greater-glide img,
+    .Kangaroo_island_dunnart img,
+    .Koala img,
+    .Mountain_pygmy-possum img,
+    .Multiple_Animals img,
+    .Orange-bellied_Parrot img,
+    .Pink_cockatoo img,
+    .quolls img,
+    .Sketch img,
+    .Southern_cassowary img,
+    .Tiger img {
+        width: 100%; /* Adjust the width as needed */
+        height: auto; /* Maintain aspect ratio */
+    }
+}
+
+
